@@ -1,2 +1,2 @@
 #!/bin/bash
-echop $PATH | tr ':' '\n' | WC -l
+echop $PATH | tr ':' '\n' | wc -l
